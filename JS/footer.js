@@ -21,7 +21,7 @@ var footerText = `
 </div>
 <div class="foot_div">
 <a href="">
-<img class="footer_logo-vk" src="/images/vk-logo.svg" alt="">
+<img class="footer_logo-vk" src="images/vk-logo.svg" alt="">
 </a>
 </div>
 `;
