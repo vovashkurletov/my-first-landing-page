@@ -7,7 +7,7 @@ var footerText = `
 
 <div class="foot_div">
 <a class="" href="/" >
-<img class='foot_img' src="/images/logo-inv.svg">
+<img class='foot_img' src="images/logo-inv.svg">
 </a>
 </div>
 </div>
