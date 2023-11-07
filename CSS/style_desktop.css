@@ -242,7 +242,7 @@ footer{
         width: 300px;
     }
     .head_text{
-        font-size: 12px;
+        font-size: 25px;
     }
 
 }
@@ -268,7 +268,7 @@ footer{
         font-size: 18px;
     }
     .head_text{
-        font-size: 12px;
+        font-size: 18px;
     }
     .body_ppsis-image {
         height: 234px;
@@ -313,7 +313,7 @@ footer{
         width: 33%;
     }
     .head_text{
-        font-size: 7px;
+        font-size: 15px;
         letter-spacing: 5px;
         width: 33%;
     }
@@ -344,9 +344,6 @@ footer{
     }
 }
 @media (min-width: 400px) and (max-width: 575px) {
-    .head_text{ 
-        font-size: 9px;
-    }
     .body_agit-text,footer {
         font-size: 18px;
     }
