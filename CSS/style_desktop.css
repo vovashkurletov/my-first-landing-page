@@ -45,10 +45,10 @@ body{
     /* Браузер сначала попробует найти шрифт локально */
     src:  local("Furore"),
            /* Если не получилось, загрузит woff2 */
-         url("/fonts/Furore.woff2") format("woff2"),
+         url("fonts/Furore.woff2") format("woff2"),
          /* Если браузер не поддерживает woff2, загрузит woff */
-         url("/fonts/Furore.woff") format("woff"),
-         url("/fonts/Furore.otf") format("otf");
+         url("fonts/Furore.woff") format("woff"),
+         url("fonts/Furore.otf") format("otf");
   }
   header {
     width: 120%;
